@@ -1,0 +1,16 @@
+.bi {
+  font-size: 25px;
+}
+
+button {
+  border-radius: 0 !important;
+}
+
+input[type="text"] {
+  border-radius: 0 !important;
+  border: none !important;
+}
+
+select {
+  border-radius: 0 !important;
+}
