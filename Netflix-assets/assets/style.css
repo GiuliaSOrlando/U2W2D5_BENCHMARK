@@ -14,3 +14,7 @@ input[type="text"] {
 select {
   border-radius: 0 !important;
 }
+
+.carousel-item img:hover {
+  transform: scale(1.2);
+}
